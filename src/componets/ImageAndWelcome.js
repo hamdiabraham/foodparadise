@@ -1,5 +1,5 @@
 import React from "react";
-import mainImage from "../assets/image/foodbanner.jpg";
+import mainImage from "../assets/image/banner.jpg";
 
 const ImageAndWelcome = () => (
   <div>
